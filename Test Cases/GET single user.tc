@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET single user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9840fcb5-7cbd-41e0-85de-6ea7d568ce05</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e8ca0b7-5274-4a97-80e1-8bcd4a39d7f8</id>
+      <masked>false</masked>
+      <name>res</name>
+   </variable>
+</TestCaseEntity>
